@@ -2,6 +2,7 @@
 My Second Project,
 
 In this project I have created three various ways to scramble and use secret messages that are able to encode and decode those messages.
+
 The first function, Caesar(),
 <ul>takes in a message and shifts an inputted alphabet in a + or - direction,</ul>
 <ul>after the shift occurs, substitute the characters assosciated with its placement,</ul>
